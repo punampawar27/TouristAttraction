@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\transition-v21\\window_enter.xml",
+        "source": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\src\\main\\res\\transition-v21\\window_enter.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\transition-v21\\fade.xml",
+        "source": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\src\\main\\res\\transition-v21\\fade.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\transition-v21\\shared_move.xml",
+        "source": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\src\\main\\res\\transition-v21\\shared_move.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\transition-v21\\window_return.xml",
+        "source": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\src\\main\\res\\transition-v21\\window_return.xml"
+    }
+]

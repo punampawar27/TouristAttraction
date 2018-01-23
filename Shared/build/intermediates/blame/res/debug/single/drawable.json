@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\7690498284ec3e98a832f5c6e41c77720c128f2b\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\7690498284ec3e98a832f5c6e41c77720c128f2b\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\7690498284ec3e98a832f5c6e41c77720c128f2b\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\7690498284ec3e98a832f5c6e41c77720c128f2b\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\7690498284ec3e98a832f5c6e41c77720c128f2b\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\7690498284ec3e98a832f5c6e41c77720c128f2b\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\7690498284ec3e98a832f5c6e41c77720c128f2b\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\fb65e864e695599dd4aefdb36eaceac556196bba\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\7690498284ec3e98a832f5c6e41c77720c128f2b\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\7690498284ec3e98a832f5c6e41c77720c128f2b\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\fb65e864e695599dd4aefdb36eaceac556196bba\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\fb65e864e695599dd4aefdb36eaceac556196bba\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\7690498284ec3e98a832f5c6e41c77720c128f2b\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\7690498284ec3e98a832f5c6e41c77720c128f2b\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\7690498284ec3e98a832f5c6e41c77720c128f2b\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\fb65e864e695599dd4aefdb36eaceac556196bba\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\7690498284ec3e98a832f5c6e41c77720c128f2b\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Shared\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\7690498284ec3e98a832f5c6e41c77720c128f2b\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    }
+]

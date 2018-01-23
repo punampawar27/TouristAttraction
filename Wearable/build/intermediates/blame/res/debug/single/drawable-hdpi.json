@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_full_directions_walking.png",
+        "source": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Wearable\\src\\main\\res\\drawable-hdpi\\ic_full_directions_walking.png"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_full_explore.png",
+        "source": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Wearable\\src\\main\\res\\drawable-hdpi\\ic_full_explore.png"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_full_openonphone.png",
+        "source": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Wearable\\src\\main\\res\\drawable-hdpi\\ic_full_openonphone.png"
+    }
+]

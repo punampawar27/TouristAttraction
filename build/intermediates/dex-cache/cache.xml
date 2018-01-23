@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\common-1.0.0_92f30c977412f908d661eb547821081c6027614c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_3ff06e35785a495ac9f7714343b03860b081d6d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\e8d32cb7e2a8b972bd240c1c334e29f1ba0cc593\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_e89c9c76332c89a7f054432b890e13ff947e6615.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\common-1.0.0_abfae85e2d911379aa97963458da17de673fb806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\7690498284ec3e98a832f5c6e41c77720c128f2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f34896233f3fe6ecb75025e06b33980cee8239a">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_3bfae58b5266545d3f28b570d53be7663776ff13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\fe1f899890bf475ea6dcfea7833be7f08bd26034\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_be5509929d07deca8eb9064fc08c5b8a49b5fab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\d865a802cedf4ad8121f273bedfdf48ae84b7bef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_69422db1ac83ea78dd39ccdd09fa80c3fd437f34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\fb65e864e695599dd4aefdb36eaceac556196bba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_b38b3004d495f836ca46e92ea5e129e22c447006.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\3277297c947674291cc4d576fee94cef12669834\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f32a31f3449f318d8f76b627644a19531285a0d6">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_616bde0075dc2f8fb4a26bc0eedb8541225f6687.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\fb881ac321b0e8f2beb73d15dcdee0ef56677d1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_e4bf141d35f5b4a9785f2a3518446cc4d15857cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\db98fffe59bb4e3aca98f499b917f1a0f755d992\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_d479b0a2e356221c407d2e4fe9b04aaf8acdcfe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\ee2e7828a95feb18030c168e755ff1da677822ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_85d60ac3580a9ffacd652ec99fde7f17ee4beb1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\bc503cbe41fae3c155cb409c680c197f5f5f6093\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_febfbd91c141a5e30d1e98a2810a320e8ef686d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\9945481f271ff1d668955da87fabb2da0ad2179e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8dde03eb53b4cd9bc4ca01565dc214f3517e7009">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_6093b2eeb7aabee11fd062898b076f9692dda5e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\1744741a76069b7925e26775fbc4febb927794a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_19704a9fe80505f4e894bbb1c4f9b33262ccbbad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\dc8bdeb25a187c8af68c2a7d8fae68b7f4271e3c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_361fe20456bd02facb0d7a34973963d5ad9e14f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\63491b2c1ecef5f8c3e10ccc15aad3ae85109c59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_16575b5cfa2bf8de8b2f9611dbb0019a0f98ceef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\786749f7862770ae25b612c6ace68325369c3702\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_055225c1811e85c3871faf06ad3771e7111c8f58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\07f26504e070194f20b293f1933adad02f68e18d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_ce0e4f2fabd879551444133b81b3f8613ecd4ffa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\fd4a2a3affad26ef9524a46d3e304aeda6ed7076\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="453427e529ccd47ef859c7d739a59ab32f7f14ee">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_30ab5e7c36b9df5335d28d23aa3ab2340825c372.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Shared\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="24ae5f1e53b82df6c62e62df91a62ccfa8a8b74b">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_8057bea74456324e2c70bd7feb8d81025c25a103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\2069c63597267408b7a530edc87dd253b486f374\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_d757c52e5cc659ef6e8783d037dc16ea4de9899a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\glide-3.6.1_dc2c594ca7c9c609d1b9634d15c5145e91187c51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\99813c91a841a9d55e272ab90724623a940c6c8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_a61f2feb778a9398c3da9bd033ccd31820ead33d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\8952aa0446782c5cfa23b27576703475539c9e56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3322192082c1b4304b975c9f52b82dab0b235120">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_dd92448be3699a27ddf140d4eef6b84492a39cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fidel25\.android\build-cache\8117ae2c937932427ad16c12ef3960b481648ae6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\build\intermediates\pre-dexed\debug\classes_ecbf8cdcdc4d8aeaf6aa943814df2ec6dc60eb53.jar" />
+    </item>
+
+</items>

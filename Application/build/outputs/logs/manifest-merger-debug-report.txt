@@ -1,0 +1,213 @@
+-- Merging decision tree log ---
+manifest
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:18:1-80:12
+	package
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:20:5-56
+	android:versionName
+		INJECTED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+		INJECTED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:19:5-51
+	xmlns:android
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+		INJECTED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\fidel25\.android\build-cache\9945481f271ff1d668955da87fabb2da0ad2179e\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:24:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:25:5-100
+	tools:node
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:25:78-97
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:26:5-101
+	tools:node
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:26:79-98
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:26:22-78
+application
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:28:5-78:19
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\fidel25\.android\build-cache\3277297c947674291cc4d576fee94cef12669834\output\AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:design:26.1.0] C:\Users\fidel25\.android\build-cache\80e53f2f15e2511a13f4cc1d7ad4628c0a69865e\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\fidel25\.android\build-cache\9b4add98db2fa5bb26016fb0d6315c9bead221d9\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\fidel25\.android\build-cache\7499d856d6e66d9bdbb2781f96561cc7d35e9d22\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\fidel25\.android\build-cache\21dae2e16bbf4809abf20a6d180dbefe15bcf851\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\fidel25\.android\build-cache\ef973e2fd64db6e838a0fa1192c271bec06a4c42\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\fidel25\.android\build-cache\42b0c58dea7ffcf27cfa8bb6954102eeb45e85ab\output\AndroidManifest.xml:22:5-26:19
+MERGED from [android-XYZTouristAttractions:Shared:unspecified] W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Shared\build\intermediates\bundles\default\AndroidManifest.xml:24:5-47
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\fidel25\.android\build-cache\63491b2c1ecef5f8c3e10ccc15aad3ae85109c59\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-wearable:11.4.0] C:\Users\fidel25\.android\build-cache\8952aa0446782c5cfa23b27576703475539c9e56\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\fidel25\.android\build-cache\9945481f271ff1d668955da87fabb2da0ad2179e\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\fidel25\.android\build-cache\7690498284ec3e98a832f5c6e41c77720c128f2b\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\fidel25\.android\build-cache\d865a802cedf4ad8121f273bedfdf48ae84b7bef\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\fidel25\.android\build-cache\fd4a2a3affad26ef9524a46d3e304aeda6ed7076\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\fidel25\.android\build-cache\db98fffe59bb4e3aca98f499b917f1a0f755d992\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\fidel25\.android\build-cache\786749f7862770ae25b612c6ace68325369c3702\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\fidel25\.android\build-cache\99813c91a841a9d55e272ab90724623a940c6c8f\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\fidel25\.android\build-cache\ee2e7828a95feb18030c168e755ff1da677822ed\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\fidel25\.android\build-cache\fe1f899890bf475ea6dcfea7833be7f08bd26034\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\fidel25\.android\build-cache\fb65e864e695599dd4aefdb36eaceac556196bba\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\fidel25\.android\build-cache\dc8bdeb25a187c8af68c2a7d8fae68b7f4271e3c\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] C:\Users\fidel25\.android\build-cache\fb881ac321b0e8f2beb73d15dcdee0ef56677d1f\output\AndroidManifest.xml:7:5-20
+	android:label
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:31:9-41
+	android:fullBackupContent
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:33:9-41
+	android:allowBackup
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:29:9-35
+	android:icon
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:30:9-43
+	android:theme
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:32:9-43
+activity#com.example.android.xyztouristattractions.ui.AttractionListActivity
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:35:9-44:20
+	android:label
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:37:13-45
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:36:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:41:27-74
+activity#com.example.android.xyztouristattractions.ui.DetailActivity
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:46:9-50:71
+	android:label
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:48:13-45
+	android:parentActivityName
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:50:13-68
+	android:theme
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:49:13-54
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:47:13-46
+receiver#com.example.android.xyztouristattractions.service.UtilityReceiver
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:52:9-61
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:52:19-58
+service#com.example.android.xyztouristattractions.service.UtilityService
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:54:9-59
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:54:18-56
+service#com.example.android.xyztouristattractions.service.ListenerService
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:56:9-69:19
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:56:18-57
+intent-filter#com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:57:13-68:29
+action#com.google.android.gms.wearable.MESSAGE_RECEIVED
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:59:17-91
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:59:25-88
+data
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:62:17-91
+	android:host
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:62:45-61
+	android:scheme
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:62:23-44
+	android:pathPrefix
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:62:62-89
+meta-data#com.google.android.gms.version
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:71:9-72:69
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\fidel25\.android\build-cache\fd4a2a3affad26ef9524a46d3e304aeda6ed7076\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:72:13-66
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:71:20-65
+meta-data#com.example.android.xyztouristattractions.config.GlideConfiguration
+ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:74:9-76:42
+	android:value
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:76:13-40
+	android:name
+		ADDED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml:75:13-95
+uses-sdk
+INJECTED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-location:11.4.0] C:\Users\fidel25\.android\build-cache\3277297c947674291cc4d576fee94cef12669834\output\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:design:26.1.0] C:\Users\fidel25\.android\build-cache\80e53f2f15e2511a13f4cc1d7ad4628c0a69865e\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\fidel25\.android\build-cache\9b4add98db2fa5bb26016fb0d6315c9bead221d9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\fidel25\.android\build-cache\7499d856d6e66d9bdbb2781f96561cc7d35e9d22\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\fidel25\.android\build-cache\21dae2e16bbf4809abf20a6d180dbefe15bcf851\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\fidel25\.android\build-cache\ef973e2fd64db6e838a0fa1192c271bec06a4c42\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\fidel25\.android\build-cache\42b0c58dea7ffcf27cfa8bb6954102eeb45e85ab\output\AndroidManifest.xml:20:5-44
+MERGED from [android-XYZTouristAttractions:Shared:unspecified] W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Shared\build\intermediates\bundles\default\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\fidel25\.android\build-cache\63491b2c1ecef5f8c3e10ccc15aad3ae85109c59\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.google.android.gms:play-services-wearable:11.4.0] C:\Users\fidel25\.android\build-cache\8952aa0446782c5cfa23b27576703475539c9e56\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\fidel25\.android\build-cache\9945481f271ff1d668955da87fabb2da0ad2179e\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\fidel25\.android\build-cache\7690498284ec3e98a832f5c6e41c77720c128f2b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.4.0] C:\Users\fidel25\.android\build-cache\d865a802cedf4ad8121f273bedfdf48ae84b7bef\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.4.0] C:\Users\fidel25\.android\build-cache\fd4a2a3affad26ef9524a46d3e304aeda6ed7076\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\fidel25\.android\build-cache\db98fffe59bb4e3aca98f499b917f1a0f755d992\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\fidel25\.android\build-cache\786749f7862770ae25b612c6ace68325369c3702\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\fidel25\.android\build-cache\99813c91a841a9d55e272ab90724623a940c6c8f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\fidel25\.android\build-cache\ee2e7828a95feb18030c168e755ff1da677822ed\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\fidel25\.android\build-cache\fe1f899890bf475ea6dcfea7833be7f08bd26034\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\fidel25\.android\build-cache\fb65e864e695599dd4aefdb36eaceac556196bba\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\fidel25\.android\build-cache\dc8bdeb25a187c8af68c2a7d8fae68b7f4271e3c\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] C:\Users\fidel25\.android\build-cache\fb881ac321b0e8f2beb73d15dcdee0ef56677d1f\output\AndroidManifest.xml:5:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\fidel25\.android\build-cache\80e53f2f15e2511a13f4cc1d7ad4628c0a69865e\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+		INJECTED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+		INJECTED from W:\Workspace\AndroidWorkspace\TouristAttraction\android-XYZTouristAttractions\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\fidel25\.android\build-cache\80e53f2f15e2511a13f4cc1d7ad4628c0a69865e\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\fidel25\.android\build-cache\9b4add98db2fa5bb26016fb0d6315c9bead221d9\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\fidel25\.android\build-cache\7499d856d6e66d9bdbb2781f96561cc7d35e9d22\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\fidel25\.android\build-cache\21dae2e16bbf4809abf20a6d180dbefe15bcf851\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\fidel25\.android\build-cache\ef973e2fd64db6e838a0fa1192c271bec06a4c42\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\fidel25\.android\build-cache\42b0c58dea7ffcf27cfa8bb6954102eeb45e85ab\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\fidel25\.android\build-cache\63491b2c1ecef5f8c3e10ccc15aad3ae85109c59\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\fidel25\.android\build-cache\db98fffe59bb4e3aca98f499b917f1a0f755d992\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\fidel25\.android\build-cache\786749f7862770ae25b612c6ace68325369c3702\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\fidel25\.android\build-cache\99813c91a841a9d55e272ab90724623a940c6c8f\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\fidel25\.android\build-cache\ee2e7828a95feb18030c168e755ff1da677822ed\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\fidel25\.android\build-cache\fe1f899890bf475ea6dcfea7833be7f08bd26034\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\fidel25\.android\build-cache\fb65e864e695599dd4aefdb36eaceac556196bba\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\fidel25\.android\build-cache\80e53f2f15e2511a13f4cc1d7ad4628c0a69865e\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\fidel25\.android\build-cache\80e53f2f15e2511a13f4cc1d7ad4628c0a69865e\output\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\fidel25\.android\build-cache\9945481f271ff1d668955da87fabb2da0ad2179e\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\fidel25\.android\build-cache\9945481f271ff1d668955da87fabb2da0ad2179e\output\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\fidel25\.android\build-cache\9945481f271ff1d668955da87fabb2da0ad2179e\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\fidel25\.android\build-cache\9945481f271ff1d668955da87fabb2da0ad2179e\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.4.0] C:\Users\fidel25\.android\build-cache\9945481f271ff1d668955da87fabb2da0ad2179e\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\fidel25\.android\build-cache\7690498284ec3e98a832f5c6e41c77720c128f2b\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\fidel25\.android\build-cache\7690498284ec3e98a832f5c6e41c77720c128f2b\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\fidel25\.android\build-cache\7690498284ec3e98a832f5c6e41c77720c128f2b\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.4.0] C:\Users\fidel25\.android\build-cache\7690498284ec3e98a832f5c6e41c77720c128f2b\output\AndroidManifest.xml:19:19-85
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\fidel25\.android\build-cache\dc8bdeb25a187c8af68c2a7d8fae68b7f4271e3c\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\fidel25\.android\build-cache\dc8bdeb25a187c8af68c2a7d8fae68b7f4271e3c\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\fidel25\.android\build-cache\dc8bdeb25a187c8af68c2a7d8fae68b7f4271e3c\output\AndroidManifest.xml:26:13-58

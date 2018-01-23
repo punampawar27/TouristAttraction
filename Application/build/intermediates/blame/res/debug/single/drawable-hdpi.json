@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_map.png",
+        "source": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_map.png"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_stat_maps_pin_drop.png",
+        "source": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\src\\main\\res\\drawable-hdpi\\ic_stat_maps_pin_drop.png"
+    }
+]

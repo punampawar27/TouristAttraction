@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\fb65e864e695599dd4aefdb36eaceac556196bba\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\fb65e864e695599dd4aefdb36eaceac556196bba\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout-v21\\dismiss_overlay.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\e45c47ec186d7d388c49c7b6bbd92b9a3143d065\\output\\res\\layout-v21\\dismiss_overlay.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout-v21\\accept_deny_dialog.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\e45c47ec186d7d388c49c7b6bbd92b9a3143d065\\output\\res\\layout-v21\\accept_deny_dialog.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\fb65e864e695599dd4aefdb36eaceac556196bba\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\fb65e864e695599dd4aefdb36eaceac556196bba\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout-v21\\overlay_confirmation.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\e45c47ec186d7d388c49c7b6bbd92b9a3143d065\\output\\res\\layout-v21\\overlay_confirmation.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\e8d32cb7e2a8b972bd240c1c334e29f1ba0cc593\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\e8d32cb7e2a8b972bd240c1c334e29f1ba0cc593\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\e8d32cb7e2a8b972bd240c1c334e29f1ba0cc593\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\e8d32cb7e2a8b972bd240c1c334e29f1ba0cc593\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\e8d32cb7e2a8b972bd240c1c334e29f1ba0cc593\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "W:\\Workspace\\AndroidWorkspace\\TouristAttraction\\android-XYZTouristAttractions\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\fidel25\\.android\\build-cache\\e8d32cb7e2a8b972bd240c1c334e29f1ba0cc593\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]
